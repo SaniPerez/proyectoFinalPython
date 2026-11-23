@@ -40,6 +40,6 @@ inventario.db: base de datos donde se guardan los productos.
 
 
 ## Github - nombre del repositorio.
-https://github.com/SaniPerez/proyectoFinalPython
+https://github.com/SaniPerez/proyectoFinalPython.git
 
 
